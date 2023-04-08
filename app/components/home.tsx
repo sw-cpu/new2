@@ -117,7 +117,7 @@ function _Home() {
         <div className={styles["sidebar-header"]}>
           <div className={styles["sidebar-title"]}>ChatGPT 书虫创客</div>
           <div className={styles["sidebar-sub-title"]}>
-            <a href="https://mp.weixin.qq.com/s/UDIFANvllenylF189muMQw">微信公众号：书虫创客  ,领取ke，如果使用不了大概就是key更新了，关注公众号获取key</a>
+            <a href="https://mp.weixin.qq.com/s/UDIFANvllenylF189muMQw">微信公众号：《书虫创客》,领取key，如果使用不了大概就是key余额没了，关注公众号重新获取key</a>
           </div>
           <div className={styles["sidebar-logo"]}>
             <ChatGptIcon />
